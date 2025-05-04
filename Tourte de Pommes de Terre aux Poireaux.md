@@ -7,12 +7,12 @@
 ## Ingrédients
 
 ### Pour la garniture
-- **1 kg** de pommes de terre de consommation  
+- **1.5 kg** de pommes de terre de consommation  
 - **1** gros oignon (ou 2 petits), finement émincé(s)  
-- **2–3** échalotes, finement hachées  
+- **2-3** échalotes, finement hachées  
 - **2–3** gousses d’ail émincées  
 - **3** poireaux, nettoyés et finement émincés  
-- **200–250 ml** de crème fraîche liquide (type briquettes)  
+- **200 ml** de crème fraîche liquide (type briquettes)  
 - **100 g** de fromage râpé (gruyère, cheddar, etc.)  
 - **1 c. à café** d’origan sec  
 - **1 c. à café** de persil sec  
@@ -31,7 +31,7 @@
 
 ### 1. Pré-cuisson des Pommes de Terre
 1. Épluchez les pommes de terre et tranchez-les en rondelles fines (environ 2–3 mm d’épaisseur).  
-2. Plongez-les dans une casserole d’eau bouillante salée pendant **8 à 10 minutes** pour qu’elles soient pré-cuites sans être molles.  
+2. Plongez-les dans une casserole d’eau bouillante salée pendant **6 à 7 minutes** pour qu’elles soient pré-cuites sans être molles.  
 3. Égouttez-les et laissez-les reposer sur un torchon propre afin d’éliminer l’excès d’eau.
 
 ### 2. Préparation de la Garniture
@@ -39,7 +39,7 @@
 2. Faites revenir l’oignon et les échalotes jusqu’à ce qu’ils deviennent translucides.  
 3. Ajoutez les poireaux émincés et laissez-les cuire à feu moyen jusqu’à ce qu’ils deviennent tendres et fondants.  
 4. Incorporez l’ail émincé et poursuivez la cuisson pendant 1 à 2 minutes.  
-5. Assaisonnez avec le sel, le poivre, l’origan et le persil.  
+5. Assaisonnez avec le sel, le poivre, l’origan, le persil et le paprika si vous en avez.  
 6. Versez la crème fraîche liquide et ajoutez le fromage râpé. Laissez mijoter quelques minutes pour que la garniture s’épaississe légèrement, puis retirez du feu.
 
 ### 3. Montage de la Tourte
