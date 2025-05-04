@@ -1,5 +1,3 @@
----
-
 # Tourte de Pommes de Terre aux Lardons et Herbes
 
 *Une recette spécialement adaptée pour un plat de 28 cm de diamètre et 8,5 cm de hauteur, à réaliser dans votre four micro-ondes 4 en 1 (chaleur tournante et grill).*
