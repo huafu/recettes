@@ -1,6 +1,8 @@
 # Quiche Lorraine sans pâte adaptée à un plat de 28 cm à bords hauts
 
-Cette recette a été spécialement adaptée pour un plat de 28 cm de diamètre avec des bords de 8,5 cm. L'objectif est de remplir le plat jusqu'à environ 2/3 de sa hauteur pour obtenir une cuisson homogène et une texture gourmande.
+*Cette recette a été spécialement adaptée pour un plat de 28 cm de diamètre avec des bords de 8,5 cm. L'objectif est de remplir le plat jusqu'à environ 2/3 de sa hauteur pour obtenir une cuisson homogène et une texture gourmande.*
+
+---
 
 ## Ingrédients (pour 4 à 6 personnes)
 
