@@ -3,7 +3,7 @@
 ## Ingrédients (pour 4 personnes)
 - 250 g de farine  
 - 4 œufs  
-- 75cl de lait  
+- 60cl de lait  
 - 1 pincée de sel  
 - 2 cuillères à soupe de sucre  
 - 50 g de beurre fondu  
